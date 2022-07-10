@@ -1,0 +1,19 @@
+.title {
+    color: red;
+}
+
+.sectionTitle {
+    color: blueviolet;
+}
+
+.subTitle {
+    color: goldenrod;
+}
+
+.centeredText {
+    text-align: center;
+}
+
+.imageList img {
+    width: 500px;
+}
